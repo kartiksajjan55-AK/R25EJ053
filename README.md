@@ -6,3 +6,4 @@ Hi, I'm Kartik Sajjan, a 3rd-semester B.Tech student studying Computer Science a
 This repository is for my GitHub Fundamentals activity. It documents my learning of repositories, README files, commits, and GitHub workflows.
 
 I am currently learning C, C++, Python, SQL, Data Structures, and Git/GitHub.
+Currently learning Python programming.
